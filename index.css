@@ -1,0 +1,38 @@
+p {
+	font-family: "font-family:"Times New Roman",Georgia,Serif;";
+
+}	
+
+.site-footer {
+  height: 50px;
+  width: 100%;
+  background-color: rgb(60,60,60);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#left{
+	background: #DCDCDC;
+}
+
+#middle{
+	margin-top:30px;
+	margin-bottom:30px;
+}
+#left img{
+	width: 20%;
+	
+}
+.list-group-item{
+	vertical-align: middle;
+	line-height: 80px;
+}
+
+img{
+	width: 25%;
+	height: auto;
+	float:left;
+	margin: 20px;
+}
